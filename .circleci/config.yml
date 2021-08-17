@@ -1,0 +1,32 @@
+<!DOCTYPE  HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title> Najlepszy Klik</title>
+	<meta name="description" content= "O moj boze jakie to fajne" />
+	<meta name="keywords" content="Najlepszy klik w polsce" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+</head>
+
+<body>
+	<h1>Super klik</h1>
+	Te kilkniece da ci nowe zycie <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley%22%3ENacisnij" target="_blank" title="lisu to frajer">Kilik 
+	</a>
+	
+	<br /><br />
+	
+	<img src="img/cat.jpg" />
+	
+	<br /><br />
+	
+	Cos bardziej egzotycznego:
+	<a href="https://www.youtube.com/watch?v=oxzEdm29JLw&ab_channel=Jeremehhh" target="_blank" title="troszke nubowo">Klik2
+	</a>
+	
+	<br /><br />
+	
+	<img src="img/cat2.jpg" />
+	
+	<br /><br />
+</body>
+</html>
